@@ -1,0 +1,1458 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-06-21 01:00+0600\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /controllers/client_types_controller.php:13;33
+msgid "Invalid client type"
+msgstr ""
+
+#: /controllers/client_types_controller.php:23;38
+msgid "The client type has been saved"
+msgstr ""
+
+#: /controllers/client_types_controller.php:26;41
+msgid "The client type could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/client_types_controller.php:51
+msgid "Invalid id for client type"
+msgstr ""
+
+#: /controllers/client_types_controller.php:55
+msgid "Client type deleted"
+msgstr ""
+
+#: /controllers/client_types_controller.php:58
+msgid "Client type was not deleted"
+msgstr ""
+
+#: /controllers/clients_controller.php:36;61
+#: /controllers/traffic_controller.php:81;114
+msgid "Invalid client id"
+msgstr ""
+
+#: /controllers/clients_controller.php:45
+#: /views/clients/index.ctp:2
+msgid "Clients"
+msgstr ""
+
+#: /controllers/clients_controller.php:49;68
+msgid "The client has been saved"
+msgstr ""
+
+#: /controllers/clients_controller.php:52;71
+msgid "The client could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/clients_controller.php:83
+msgid "Invalid id for client"
+msgstr ""
+
+#: /controllers/clients_controller.php:88
+msgid "Client deleted"
+msgstr ""
+
+#: /controllers/clients_controller.php:91
+msgid "Client was not deleted"
+msgstr ""
+
+#: /controllers/configs_controller.php:13;33
+msgid "Invalid config"
+msgstr ""
+
+#: /controllers/configs_controller.php:23;38
+msgid "The config has been saved"
+msgstr ""
+
+#: /controllers/configs_controller.php:26;41
+msgid "The config could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/configs_controller.php:51
+msgid "Invalid id for config"
+msgstr ""
+
+#: /controllers/configs_controller.php:55
+msgid "Config deleted"
+msgstr ""
+
+#: /controllers/configs_controller.php:58
+msgid "Config was not deleted"
+msgstr ""
+
+#: /controllers/detail_controller.php:9
+msgid "IP address must not be empty"
+msgstr ""
+
+#: /controllers/detail_controller.php:11
+msgid "Enter a valid IP address"
+msgstr ""
+
+#: /controllers/detail_controller.php:13
+msgid "Period must be at least one day long"
+msgstr ""
+
+#: /controllers/groups_controller.php:17;37
+msgid "Invalid group"
+msgstr ""
+
+#: /controllers/groups_controller.php:27;42
+msgid "The group has been saved"
+msgstr ""
+
+#: /controllers/groups_controller.php:30;45
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/groups_controller.php:55
+msgid "Invalid id for group"
+msgstr ""
+
+#: /controllers/groups_controller.php:59
+msgid "Group deleted"
+msgstr ""
+
+#: /controllers/groups_controller.php:62
+msgid "Group was not deleted"
+msgstr ""
+
+#: /controllers/ips_controller.php:16;75
+msgid "Invalid ip"
+msgstr ""
+
+#: /controllers/ips_controller.php:30
+msgid "You haven't specified an count parameter"
+msgstr ""
+
+#: /controllers/ips_controller.php:34
+msgid "Invalid IP address format"
+msgstr ""
+
+#: /controllers/ips_controller.php:41
+msgid "You must specify first IP address of network"
+msgstr ""
+
+#: /controllers/ips_controller.php:45
+msgid "Last octet could be in range of 1 to 255"
+msgstr ""
+
+#: /controllers/ips_controller.php:52
+msgid "The IP address %s already belongs to somebody. Saving aborted"
+msgstr ""
+
+#: /controllers/ips_controller.php:61;93
+msgid "The ip could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/ips_controller.php:64
+msgid "The ip addresses has been saved"
+msgstr ""
+
+#: /controllers/ips_controller.php:87
+msgid "The ip already belongs to another client."
+msgstr ""
+
+#: /controllers/ips_controller.php:90
+msgid "The ip has been saved"
+msgstr ""
+
+#: /controllers/ips_controller.php:104
+msgid "Invalid id for ip"
+msgstr ""
+
+#: /controllers/ips_controller.php:109
+msgid "Ip deleted"
+msgstr ""
+
+#: /controllers/ips_controller.php:111
+msgid "Ip was not deleted"
+msgstr ""
+
+#: /controllers/networks_controller.php:13;33
+msgid "Invalid network"
+msgstr ""
+
+#: /controllers/networks_controller.php:23;38
+msgid "The network has been saved"
+msgstr ""
+
+#: /controllers/networks_controller.php:26;41
+msgid "The network could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/networks_controller.php:51
+msgid "Invalid id for network"
+msgstr ""
+
+#: /controllers/networks_controller.php:55
+msgid "Network deleted"
+msgstr ""
+
+#: /controllers/networks_controller.php:58
+msgid "Network was not deleted"
+msgstr ""
+
+#: /controllers/payments_controller.php:30;69
+msgid "Invalid payment"
+msgstr ""
+
+#: /controllers/payments_controller.php:40
+msgid "There are no active sessions."
+msgstr ""
+
+#: /controllers/payments_controller.php:42
+msgid "You have not specified an amount"
+msgstr ""
+
+#: /controllers/payments_controller.php:49;74
+msgid "The payment has been saved"
+msgstr ""
+
+#: /controllers/payments_controller.php:51;77
+msgid "The payment could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/payments_controller.php:61
+msgid "Please specify session for payment"
+msgstr ""
+
+#: /controllers/payments_controller.php:96
+msgid "Invalid id for payment"
+msgstr ""
+
+#: /controllers/payments_controller.php:100
+msgid "Payment deleted"
+msgstr ""
+
+#: /controllers/payments_controller.php:103
+msgid "Payment was not deleted"
+msgstr ""
+
+#: /controllers/peerings_controller.php:13;33
+msgid "Invalid peering"
+msgstr ""
+
+#: /controllers/peerings_controller.php:23;38
+msgid "The peering has been saved"
+msgstr ""
+
+#: /controllers/peerings_controller.php:26;41
+msgid "The peering could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/peerings_controller.php:51
+msgid "Invalid id for peering"
+msgstr ""
+
+#: /controllers/peerings_controller.php:55
+msgid "Peering deleted"
+msgstr ""
+
+#: /controllers/peerings_controller.php:58
+msgid "Peering was not deleted"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:89;130
+msgid "The room session has been saved"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:92;133
+msgid "The room session could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:102;110
+msgid "Invalid room session"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:145;158;180
+msgid "Invalid id for room session"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:149
+msgid "Room session deleted"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:152
+msgid "Room session was not deleted"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:170
+msgid "Room session started"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:174
+msgid "Room session was not started"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:190
+msgid "Room session completed"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:193
+msgid "Room session was not completed"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:206
+msgid "Room must be specified to start the session"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:213
+msgid "Tariff must be specified to start the session"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:223
+msgid "There is already started session, close it first"
+msgstr ""
+
+#: /controllers/room_sessions_controller.php:230
+msgid "Not enaught balance to start session"
+msgstr ""
+
+#: /controllers/tariffs_controller.php:13;33
+msgid "Invalid tariff"
+msgstr ""
+
+#: /controllers/tariffs_controller.php:23;38
+msgid "The tariff has been saved"
+msgstr ""
+
+#: /controllers/tariffs_controller.php:26;41
+msgid "The tariff could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/tariffs_controller.php:51
+msgid "Invalid id for tariff"
+msgstr ""
+
+#: /controllers/tariffs_controller.php:55
+msgid "Tariff deleted"
+msgstr ""
+
+#: /controllers/tariffs_controller.php:58
+msgid "Tariff was not deleted"
+msgstr ""
+
+#: /controllers/traffic_controller.php:14
+#: /views/traffic/statistic.ctp:41
+msgid "Total"
+msgstr ""
+
+#: /controllers/users_controller.php:28;50
+msgid "Invalid user"
+msgstr ""
+
+#: /controllers/users_controller.php:38;67
+msgid "The user has been saved"
+msgstr ""
+
+#: /controllers/users_controller.php:41;70
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/users_controller.php:58
+msgid "Passwords do not match"
+msgstr ""
+
+#: /controllers/users_controller.php:82
+msgid "Invalid id for user"
+msgstr ""
+
+#: /controllers/users_controller.php:86
+msgid "User deleted"
+msgstr ""
+
+#: /controllers/users_controller.php:89
+msgid "User was not deleted"
+msgstr ""
+
+#: /models/payment.php:61
+msgid "Payment modified amount changed from %.2f to %.2f"
+msgstr ""
+
+#: /models/payment.php:76
+msgid "Payment deleted amount %.2f"
+msgstr ""
+
+#: /models/room_session.php:55
+msgid "Session started"
+msgstr ""
+
+#: /models/room_session.php:69
+msgid "Session ended"
+msgstr ""
+
+#: /vendors/shells/access.php:14
+msgid "Blocked by the monetary debt %.2f < %.2f"
+msgstr ""
+
+#: /views/channel_speed/index.ctp:1
+#: /views/pages/home.ctp:28
+msgid "Channel Speed Chart"
+msgstr ""
+
+#: /views/channel_speed/index.ctp:8
+msgid "Load"
+msgstr ""
+
+#: /views/client_types/add.ctp:4
+msgid "Add Client Type"
+msgstr ""
+
+#: /views/client_types/add.ctp:10
+#: /views/client_types/edit.ctp:11
+#: /views/clients/add.ctp:11
+#: /views/clients/edit.ctp:12
+#: /views/configs/add.ctp:11
+#: /views/configs/edit.ctp:12
+#: /views/detail/index.ctp:10
+#: /views/groups/add.ctp:9
+#: /views/groups/edit.ctp:10
+#: /views/ips/add.ctp:10
+#: /views/ips/edit.ctp:19
+#: /views/networks/add.ctp:11
+#: /views/networks/edit.ctp:12
+#: /views/payments/add.ctp:15
+#: /views/payments/edit.ctp:12
+#: /views/peerings/add.ctp:11
+#: /views/peerings/edit.ctp:12
+#: /views/room_sessions/add.ctp:29
+#: /views/room_sessions/edit.ctp:37
+#: /views/tariffs/add.ctp:14
+#: /views/tariffs/edit.ctp:15
+#: /views/users/add.ctp:12
+#: /views/users/edit.ctp:14
+msgid "Submit"
+msgstr ""
+
+#: /views/client_types/add.ctp:13
+#: /views/client_types/edit.ctp:14
+#: /views/client_types/index.ctp:7;44
+#: /views/client_types/view.ctp:22
+#: /views/clients/add.ctp:14
+#: /views/clients/edit.ctp:15
+#: /views/clients/index.ctp:10;59
+#: /views/clients/view.ctp:27;43;45
+#: /views/configs/add.ctp:14
+#: /views/configs/edit.ctp:15
+#: /views/configs/index.ctp:9;47
+#: /views/configs/view.ctp:27
+#: /views/detail/index.ctp:28
+#: /views/groups/add.ctp:12
+#: /views/groups/edit.ctp:13
+#: /views/groups/index.ctp:9;47
+#: /views/groups/view.ctp:27
+#: /views/ips/add.ctp:13
+#: /views/ips/edit.ctp:22
+#: /views/ips/index.ctp:10;56
+#: /views/ips/view.ctp:33
+#: /views/networks/add.ctp:14
+#: /views/networks/edit.ctp:15
+#: /views/networks/index.ctp:9;47
+#: /views/networks/view.ctp:27
+#: /views/payments/add.ctp:18
+#: /views/payments/edit.ctp:15
+#: /views/payments/index.ctp:11;53
+#: /views/payments/view.ctp:47
+#: /views/peerings/add.ctp:14
+#: /views/peerings/edit.ctp:15
+#: /views/peerings/index.ctp:9;47
+#: /views/peerings/view.ctp:27
+#: /views/room_sessions/add.ctp:35
+#: /views/room_sessions/edit.ctp:43
+#: /views/room_sessions/index.ctp:91
+#: /views/room_sessions/view.ctp:92
+#: /views/tariffs/add.ctp:17
+#: /views/tariffs/edit.ctp:18
+#: /views/tariffs/index.ctp:10;49
+#: /views/tariffs/view.ctp:42
+#: /views/users/add.ctp:15
+#: /views/users/edit.ctp:17
+#: /views/users/index.ctp:11;51
+#: /views/users/view.ctp:37
+msgid "Actions"
+msgstr ""
+
+#: /views/client_types/add.ctp:16
+#: /views/client_types/edit.ctp:18
+#: /views/client_types/view.ctp:26
+msgid "List Client Types"
+msgstr ""
+
+#: /views/client_types/edit.ctp:4
+#: /views/client_types/view.ctp:24
+msgid "Edit Client Type"
+msgstr ""
+
+#: /views/client_types/edit.ctp:17
+#: /views/client_types/index.ctp:24
+#: /views/clients/edit.ctp:18
+#: /views/clients/index.ctp:32
+#: /views/clients/view.ctp:58
+#: /views/configs/edit.ctp:18
+#: /views/configs/index.ctp:27
+#: /views/groups/edit.ctp:16
+#: /views/groups/index.ctp:27
+#: /views/ips/edit.ctp:26
+#: /views/ips/index.ctp:36
+#: /views/networks/edit.ctp:18
+#: /views/networks/index.ctp:27
+#: /views/payments/edit.ctp:19
+#: /views/payments/index.ctp:33
+#: /views/peerings/edit.ctp:18
+#: /views/peerings/index.ctp:27
+#: /views/room_sessions/edit.ctp:46
+#: /views/tariffs/edit.ctp:22
+#: /views/tariffs/index.ctp:29
+#: /views/users/edit.ctp:20
+#: /views/users/index.ctp:31
+msgid "Delete"
+msgstr ""
+
+#: /views/client_types/edit.ctp:17
+#: /views/client_types/index.ctp:24
+#: /views/client_types/view.ctp:25
+#: /views/clients/edit.ctp:18
+#: /views/clients/index.ctp:32
+#: /views/clients/view.ctp:30;58
+#: /views/configs/edit.ctp:18
+#: /views/configs/index.ctp:27
+#: /views/configs/view.ctp:30
+#: /views/groups/edit.ctp:16
+#: /views/groups/index.ctp:27
+#: /views/groups/view.ctp:30
+#: /views/ips/edit.ctp:26
+#: /views/ips/index.ctp:36
+#: /views/ips/view.ctp:36
+#: /views/networks/edit.ctp:18
+#: /views/networks/index.ctp:27
+#: /views/networks/view.ctp:30
+#: /views/payments/edit.ctp:19
+#: /views/payments/index.ctp:33
+#: /views/payments/view.ctp:50
+#: /views/peerings/edit.ctp:18
+#: /views/peerings/index.ctp:27
+#: /views/peerings/view.ctp:30
+#: /views/room_sessions/edit.ctp:46
+#: /views/room_sessions/view.ctp:106
+#: /views/tariffs/edit.ctp:22
+#: /views/tariffs/index.ctp:29
+#: /views/tariffs/view.ctp:45
+#: /views/users/edit.ctp:20
+#: /views/users/index.ctp:31
+#: /views/users/view.ctp:40
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /views/client_types/index.ctp:2
+msgid "Client Types"
+msgstr ""
+
+#: /views/client_types/index.ctp:22
+#: /views/clients/index.ctp:30
+#: /views/configs/index.ctp:25
+#: /views/detail/index.ctp:46
+#: /views/groups/index.ctp:25
+#: /views/networks/index.ctp:25
+#: /views/payments/index.ctp:31
+#: /views/peerings/index.ctp:25
+#: /views/room_sessions/index.ctp:68
+#: /views/tariffs/index.ctp:27
+#: /views/users/index.ctp:29
+msgid "View"
+msgstr ""
+
+#: /views/client_types/index.ctp:23
+#: /views/clients/index.ctp:31
+#: /views/clients/view.ctp:57
+#: /views/configs/index.ctp:26
+#: /views/groups/index.ctp:26
+#: /views/ips/index.ctp:35
+#: /views/networks/index.ctp:26
+#: /views/payments/index.ctp:32
+#: /views/peerings/index.ctp:26
+#: /views/room_sessions/index.ctp:69
+#: /views/tariffs/index.ctp:28
+#: /views/users/index.ctp:30
+msgid "Edit"
+msgstr ""
+
+#: /views/client_types/index.ctp:32
+#: /views/clients/index.ctp:40
+#: /views/configs/index.ctp:35
+#: /views/groups/index.ctp:35
+#: /views/ips/index.ctp:44
+#: /views/networks/index.ctp:35
+#: /views/payments/index.ctp:41
+#: /views/peerings/index.ctp:35
+#: /views/tariffs/index.ctp:37
+#: /views/traffic/client_day.ctp:69
+#: /views/users/index.ctp:39
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: /views/client_types/index.ctp:37
+#: /views/clients/index.ctp:45
+#: /views/configs/index.ctp:40
+#: /views/detail/index.ctp:53
+#: /views/groups/index.ctp:40
+#: /views/ips/index.ctp:49
+#: /views/networks/index.ctp:40
+#: /views/payments/index.ctp:46
+#: /views/peerings/index.ctp:40
+#: /views/tariffs/index.ctp:42
+#: /views/traffic/client_day.ctp:74
+#: /views/users/index.ctp:44
+msgid "previous"
+msgstr ""
+
+#: /views/client_types/index.ctp:40
+#: /views/clients/index.ctp:48
+#: /views/configs/index.ctp:43
+#: /views/detail/index.ctp:55
+#: /views/groups/index.ctp:43
+#: /views/ips/index.ctp:52
+#: /views/networks/index.ctp:43
+#: /views/payments/index.ctp:49
+#: /views/peerings/index.ctp:43
+#: /views/tariffs/index.ctp:45
+#: /views/traffic/client_day.ctp:77
+#: /views/users/index.ctp:47
+msgid "next"
+msgstr ""
+
+#: /views/client_types/index.ctp:46
+#: /views/client_types/view.ctp:27
+msgid "New Client Type"
+msgstr ""
+
+#: /views/client_types/view.ctp:2
+#: /views/clients/view.ctp:19
+#: /views/traffic/index.ctp:38
+msgid "Client Type"
+msgstr ""
+
+#: /views/client_types/view.ctp:4
+#: /views/clients/view.ctp:4
+#: /views/configs/view.ctp:4
+#: /views/detail/view.ctp:7
+#: /views/groups/view.ctp:4
+#: /views/ips/view.ctp:4
+#: /views/networks/view.ctp:4
+#: /views/payments/view.ctp:4
+#: /views/peerings/view.ctp:4
+#: /views/room_sessions/view.ctp:4
+#: /views/tariffs/view.ctp:4
+#: /views/users/view.ctp:4
+msgid "Id"
+msgstr ""
+
+#: /views/client_types/view.ctp:9
+#: /views/clients/view.ctp:9
+#: /views/configs/view.ctp:9
+#: /views/groups/view.ctp:9
+#: /views/pages/home.ctp:6
+#: /views/room_sessions/view.ctp:9
+#: /views/tariffs/view.ctp:9
+#: /views/traffic/statistic.ctp:11
+msgid "Name"
+msgstr ""
+
+#: /views/client_types/view.ctp:14
+#: /views/clients/view.ctp:14
+#: /views/configs/view.ctp:19
+#: /views/detail/index.ctp:27
+#: /views/detail/view.ctp:27
+#: /views/ips/view.ctp:24
+#: /views/networks/view.ctp:19
+#: /views/pages/home.ctp:7
+#: /views/payments/view.ctp:39
+#: /views/peerings/view.ctp:19
+#: /views/room_sessions/view.ctp:14
+#: /views/tariffs/view.ctp:14
+msgid "Description"
+msgstr ""
+
+#: /views/client_types/view.ctp:25
+msgid "Delete Client Type"
+msgstr ""
+
+#: /views/clients/add.ctp:4
+msgid "Add Client"
+msgstr ""
+
+#: /views/clients/add.ctp:17
+#: /views/clients/edit.ctp:19
+#: /views/clients/view.ctp:31
+#: /views/ips/add.ctp:17
+#: /views/ips/index.ctp:58
+#: /views/ips/view.ctp:39
+msgid "List Clients"
+msgstr ""
+
+#: /views/clients/edit.ctp:4
+#: /views/clients/view.ctp:29
+msgid "Edit Client"
+msgstr ""
+
+#: /views/clients/index.ctp:9
+msgid "IP"
+msgstr ""
+
+#: /views/clients/index.ctp:54
+#: /views/payments/index.ctp:59
+#: /views/room_sessions/index.ctp:87
+msgid "Filter"
+msgstr ""
+
+#: /views/clients/index.ctp:56
+msgid "Find"
+msgstr ""
+
+#: /views/clients/index.ctp:61
+#: /views/clients/view.ctp:32
+#: /views/ips/index.ctp:59
+#: /views/ips/view.ctp:40
+msgid "New Client"
+msgstr ""
+
+#: /views/clients/view.ctp:2
+#: /views/ips/view.ctp:9
+#: /views/room_sessions/view.ctp:19
+#: /views/traffic/index.ctp:37
+msgid "Client"
+msgstr ""
+
+#: /views/clients/view.ctp:30
+msgid "Delete Client"
+msgstr ""
+
+#: /views/clients/view.ctp:33;59
+msgid "Turn on"
+msgstr ""
+
+#: /views/clients/view.ctp:34;60
+msgid "Turn off"
+msgstr ""
+
+#: /views/clients/view.ctp:38
+msgid "Related Ips"
+msgstr ""
+
+#: /views/clients/view.ctp:42;44
+#: /views/ips/view.ctp:2;14
+msgid "Ip"
+msgstr ""
+
+#: /views/clients/view.ctp:70
+#: /views/ips/view.ctp:38
+msgid "New Ip"
+msgstr ""
+
+#: /views/configs/add.ctp:4
+msgid "Add Config"
+msgstr ""
+
+#: /views/configs/add.ctp:17
+#: /views/configs/edit.ctp:19
+#: /views/configs/view.ctp:31
+msgid "List Configs"
+msgstr ""
+
+#: /views/configs/edit.ctp:4
+#: /views/configs/view.ctp:29
+msgid "Edit Config"
+msgstr ""
+
+#: /views/configs/index.ctp:2
+msgid "Configs"
+msgstr ""
+
+#: /views/configs/index.ctp:49
+#: /views/configs/view.ctp:32
+msgid "New Config"
+msgstr ""
+
+#: /views/configs/view.ctp:2
+msgid "Config"
+msgstr ""
+
+#: /views/configs/view.ctp:14
+#: /views/detail/view.ctp:4
+msgid "Value"
+msgstr ""
+
+#: /views/configs/view.ctp:30
+msgid "Delete Config"
+msgstr ""
+
+#: /views/detail/index.ctp:1
+msgid "Detail statistic by IP address"
+msgstr ""
+
+#: /views/detail/index.ctp:16
+msgid "Page %page% of %pages%, "
+msgstr ""
+
+#: /views/detail/index.ctp:23
+#: /views/detail/view.ctp:11
+msgid "IP address"
+msgstr ""
+
+#: /views/detail/index.ctp:24
+#: /views/detail/view.ctp:15
+msgid "Begin date"
+msgstr ""
+
+#: /views/detail/index.ctp:25
+#: /views/detail/view.ctp:19
+msgid "End date"
+msgstr ""
+
+#: /views/detail/index.ctp:26
+#: /views/detail/view.ctp:23
+#: /views/room_sessions/index.ctp:23
+#: /views/room_sessions/view.ctp:64
+msgid "Status"
+msgstr ""
+
+#: /views/detail/index.ctp:40
+msgid "Cancel"
+msgstr ""
+
+#: /views/detail/index.ctp:43
+msgid "Download"
+msgstr ""
+
+#: /views/detail/view.ctp:3
+msgid "Field"
+msgstr ""
+
+#: /views/detail/view.ctp:31
+#: /views/groups/view.ctp:14
+#: /views/payments/view.ctp:14
+#: /views/room_sessions/view.ctp:54
+#: /views/users/view.ctp:24
+msgid "Created"
+msgstr ""
+
+#: /views/detail/view.ctp:35
+msgid "Started"
+msgstr ""
+
+#: /views/detail/view.ctp:39
+msgid "Completed"
+msgstr ""
+
+#: /views/detail/view.ctp:43
+msgid "File"
+msgstr ""
+
+#: /views/detail/view.ctp:47
+#: /views/traffic/client_day.ctp:3
+msgid "Back"
+msgstr ""
+
+#: /views/groups/add.ctp:4
+msgid "Add Group"
+msgstr ""
+
+#: /views/groups/add.ctp:15
+#: /views/groups/edit.ctp:17
+#: /views/groups/view.ctp:31
+msgid "List Groups"
+msgstr ""
+
+#: /views/groups/edit.ctp:4
+#: /views/groups/view.ctp:29
+msgid "Edit Group"
+msgstr ""
+
+#: /views/groups/index.ctp:2
+msgid "Groups"
+msgstr ""
+
+#: /views/groups/index.ctp:49
+#: /views/groups/view.ctp:32
+msgid "New Group"
+msgstr ""
+
+#: /views/groups/view.ctp:2
+#: /views/users/view.ctp:14
+msgid "Group"
+msgstr ""
+
+#: /views/groups/view.ctp:19
+#: /views/payments/view.ctp:19
+#: /views/room_sessions/view.ctp:59
+#: /views/users/view.ctp:29
+msgid "Modified"
+msgstr ""
+
+#: /views/groups/view.ctp:30
+msgid "Delete Group"
+msgstr ""
+
+#: /views/helpers/graph.php:23
+msgid "Bandwidth Mbit/s"
+msgstr ""
+
+#: /views/ips/add.ctp:4
+msgid "Add IP subnet to room %s"
+msgstr ""
+
+#: /views/ips/add.ctp:7
+msgid "Count (Could be in range of 1 to 254)"
+msgstr ""
+
+#: /views/ips/add.ctp:16
+msgid "View Client"
+msgstr ""
+
+#: /views/ips/edit.ctp:5
+msgid "Edit ip of room %s"
+msgstr ""
+
+#: /views/ips/edit.ctp:12
+msgid "Current"
+msgstr ""
+
+#: /views/ips/edit.ctp:13
+msgid "not found"
+msgstr ""
+
+#: /views/ips/edit.ctp:24
+#: /views/ips/view.ctp:37
+msgid "List Ips"
+msgstr ""
+
+#: /views/ips/edit.ctp:25
+#: /views/room_sessions/index.ctp:18
+msgid "Room"
+msgstr ""
+
+#: /views/ips/index.ctp:2
+msgid "Ips"
+msgstr ""
+
+#: /views/ips/view.ctp:19
+msgid "Mac"
+msgstr ""
+
+#: /views/ips/view.ctp:35
+msgid "Edit Ip"
+msgstr ""
+
+#: /views/ips/view.ctp:36
+msgid "Delete Ip"
+msgstr ""
+
+#: /views/layouts/default.ctp:28;46
+msgid "Golden Dragon Network Billing"
+msgstr ""
+
+#: /views/layouts/default.ctp:48
+#: /views/pages/home.ctp:2
+msgid "Table of contents"
+msgstr ""
+
+#: /views/layouts/default.ctp:52
+msgid "Refresh"
+msgstr ""
+
+#: /views/layouts/default.ctp:54
+msgid "Logout"
+msgstr ""
+
+#: /views/layouts/default.ctp:55
+msgid "You have entered as %s"
+msgstr ""
+
+#: /views/networks/add.ctp:4
+msgid "Add Network"
+msgstr ""
+
+#: /views/networks/add.ctp:17
+#: /views/networks/edit.ctp:19
+#: /views/networks/view.ctp:31
+msgid "List Networks"
+msgstr ""
+
+#: /views/networks/edit.ctp:4
+#: /views/networks/view.ctp:29
+msgid "Edit Network"
+msgstr ""
+
+#: /views/networks/index.ctp:2
+msgid "Networks"
+msgstr ""
+
+#: /views/networks/index.ctp:49
+#: /views/networks/view.ctp:32
+msgid "New Network"
+msgstr ""
+
+#: /views/networks/view.ctp:2;9
+#: /views/peerings/view.ctp:9
+msgid "Network"
+msgstr ""
+
+#: /views/networks/view.ctp:14
+#: /views/peerings/view.ctp:14
+msgid "Mask"
+msgstr ""
+
+#: /views/networks/view.ctp:30
+msgid "Delete Network"
+msgstr ""
+
+#: /views/pages/home.ctp:10
+msgid "Traffic usage by guest"
+msgstr ""
+
+#: /views/pages/home.ctp:11
+msgid "Internet service management tool for guests"
+msgstr ""
+
+#: /views/pages/home.ctp:16
+msgid "Traffic usage by room"
+msgstr ""
+
+#: /views/pages/home.ctp:17
+msgid "This report shows how much traffic use this month each room and gives detailed "
+msgstr ""
+
+#: /views/pages/home.ctp:23
+#: /views/payments/add.ctp:23;25
+#: /views/payments/index.ctp:2
+#: /views/room_sessions/view.ctp:110
+msgid "Payments"
+msgstr ""
+
+#: /views/pages/home.ctp:24
+msgid "Recent customer payments"
+msgstr ""
+
+#: /views/pages/home.ctp:29
+msgid "Graphical representation of Internet service usage"
+msgstr ""
+
+#: /views/pages/home.ctp:34
+msgid "Raw statistic"
+msgstr ""
+
+#: /views/pages/home.ctp:35
+msgid "Detailed statistic generating tool. It compiles an arhive with raw data by specified "
+msgstr ""
+
+#: /views/pages/home.ctp:45
+msgid "Client management"
+msgstr ""
+
+#: /views/pages/home.ctp:46
+msgid "There is a tool for inserting, editing and deleting users from billing"
+msgstr ""
+
+#: /views/pages/home.ctp:51
+msgid "Tariff management"
+msgstr ""
+
+#: /views/pages/home.ctp:52
+msgid "There is a tool for inserting, editing and deleting tariffs"
+msgstr ""
+
+#: /views/pages/home.ctp:58
+msgid "Peering networks"
+msgstr ""
+
+#: /views/pages/home.ctp:59
+msgid "Traffic to this networks comes through billing without accounting"
+msgstr ""
+
+#: /views/pages/home.ctp:64
+msgid "Billing networks"
+msgstr ""
+
+#: /views/pages/home.ctp:65
+msgid "Networks that we use for our clients"
+msgstr ""
+
+#: /views/pages/home.ctp:70
+msgid "MAC-IP Binding"
+msgstr ""
+
+#: /views/pages/home.ctp:71
+msgid "Binding computer by unique network address"
+msgstr ""
+
+#: /views/pages/home.ctp:78
+msgid "Settings"
+msgstr ""
+
+#: /views/pages/home.ctp:79
+msgid "Various configuration variables"
+msgstr ""
+
+#: /views/pages/home.ctp:85
+#: /views/users/index.ctp:2
+msgid "Users"
+msgstr ""
+
+#: /views/pages/home.ctp:86
+msgid "System user management"
+msgstr ""
+
+#: /views/payments/add.ctp:4
+msgid "Add Payment"
+msgstr ""
+
+#: /views/payments/add.ctp:22
+#: /views/room_sessions/index.ctp:19
+msgid "Session"
+msgstr ""
+
+#: /views/payments/edit.ctp:4
+#: /views/payments/view.ctp:49
+msgid "Edit Payment"
+msgstr ""
+
+#: /views/payments/edit.ctp:17
+#: /views/payments/view.ctp:52
+#: /views/room_sessions/view.ctp:109
+msgid "New Payment"
+msgstr ""
+
+#: /views/payments/edit.ctp:20
+#: /views/payments/view.ctp:51
+msgid "List Payments"
+msgstr ""
+
+#: /views/payments/view.ctp:2
+msgid "Payment"
+msgstr ""
+
+#: /views/payments/view.ctp:9
+#: /views/room_sessions/view.ctp:2
+msgid "Room Session"
+msgstr ""
+
+#: /views/payments/view.ctp:24
+msgid "Amount"
+msgstr ""
+
+#: /views/payments/view.ctp:29
+msgid "Payment Category"
+msgstr ""
+
+#: /views/payments/view.ctp:34
+#: /views/users/view.ctp:2
+msgid "User"
+msgstr ""
+
+#: /views/payments/view.ctp:50
+msgid "Delete Payment"
+msgstr ""
+
+#: /views/peerings/add.ctp:4
+msgid "Add Peering"
+msgstr ""
+
+#: /views/peerings/add.ctp:17
+#: /views/peerings/edit.ctp:19
+#: /views/peerings/view.ctp:31
+msgid "List Peerings"
+msgstr ""
+
+#: /views/peerings/edit.ctp:4
+#: /views/peerings/view.ctp:29
+msgid "Edit Peering"
+msgstr ""
+
+#: /views/peerings/index.ctp:2
+msgid "Peerings"
+msgstr ""
+
+#: /views/peerings/index.ctp:49
+#: /views/peerings/view.ctp:32
+msgid "New Peering"
+msgstr ""
+
+#: /views/peerings/index.ctp:50
+msgid "Update"
+msgstr ""
+
+#: /views/peerings/view.ctp:2
+msgid "Peering"
+msgstr ""
+
+#: /views/peerings/view.ctp:30
+msgid "Delete Peering"
+msgstr ""
+
+#: /views/room_sessions/add.ctp:4
+msgid "Add Room Session"
+msgstr ""
+
+#: /views/room_sessions/add.ctp:37
+#: /views/room_sessions/edit.ctp:47
+#: /views/room_sessions/view.ctp:108
+msgid "List Room Sessions"
+msgstr ""
+
+#: /views/room_sessions/edit.ctp:9
+#: /views/room_sessions/view.ctp:105
+msgid "Edit Room Session"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:20
+#: /views/room_sessions/view.ctp:24
+#: /views/tariffs/view.ctp:2
+msgid "Tariff"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:21
+#: /views/room_sessions/view.ctp:29
+msgid "Balance"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:22
+#: /views/room_sessions/view.ctp:34
+msgid "Usage"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:24
+msgid ""
+msgstr ""
+
+#: /views/room_sessions/index.ctp:45
+msgid "From %s to %s"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:62
+#: /views/room_sessions/view.ctp:98
+msgid "Start now"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:64
+#: /views/room_sessions/view.ctp:100
+msgid "End now"
+msgstr ""
+
+#: /views/room_sessions/index.ctp:93
+msgid "Add Session"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:39
+msgid "Limit"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:44
+msgid "Start"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:49
+msgid "End"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:69
+#: /views/traffic/client_month.ctp:46
+#: /views/traffic/statistic.ctp:16
+msgid "Global In"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:74
+#: /views/traffic/client_month.ctp:47
+#: /views/traffic/statistic.ctp:21
+msgid "Global Out"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:79
+#: /views/traffic/client_month.ctp:48
+#: /views/traffic/statistic.ctp:26
+msgid "Peering In"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:84
+#: /views/traffic/client_month.ctp:49
+#: /views/traffic/statistic.ctp:31
+msgid "Peering Out"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:106
+msgid "Delete Room Session"
+msgstr ""
+
+#: /views/room_sessions/view.ctp:107
+msgid "New Room Session"
+msgstr ""
+
+#: /views/tariffs/add.ctp:4
+msgid "Add Tariff"
+msgstr ""
+
+#: /views/tariffs/add.ctp:20
+#: /views/tariffs/edit.ctp:23
+#: /views/tariffs/view.ctp:46
+msgid "List Tariffs"
+msgstr ""
+
+#: /views/tariffs/edit.ctp:4
+#: /views/tariffs/view.ctp:44
+msgid "Edit Tariff"
+msgstr ""
+
+#: /views/tariffs/edit.ctp:21
+#: /views/tariffs/index.ctp:51
+#: /views/tariffs/view.ctp:47
+msgid "New Tariff"
+msgstr ""
+
+#: /views/tariffs/index.ctp:2
+msgid "Tariffs"
+msgstr ""
+
+#: /views/tariffs/view.ctp:19
+msgid "Global Price"
+msgstr ""
+
+#: /views/tariffs/view.ctp:24
+msgid "Peering Price"
+msgstr ""
+
+#: /views/tariffs/view.ctp:29
+msgid "Starting Balance"
+msgstr ""
+
+#: /views/tariffs/view.ctp:34
+msgid "Default Limit"
+msgstr ""
+
+#: /views/tariffs/view.ctp:45
+msgid "Delete Tariff"
+msgstr ""
+
+#: /views/traffic/client_chart.ctp:2
+msgid "Table"
+msgstr ""
+
+#: /views/traffic/client_chart.ctp:11
+#: /views/traffic/client_day.ctp:8
+#: /views/traffic/client_month.ctp:8
+msgid "All"
+msgstr ""
+
+#: /views/traffic/client_chart.ctp:36
+#: /views/traffic/client_day.ctp:35
+#: /views/traffic/client_month.ctp:38
+#: /views/traffic/index.ctp:23
+#: /views/traffic/statistic.ctp:7
+msgid "Report"
+msgstr ""
+
+#: /views/traffic/client_month.ctp:3
+msgid "Chart"
+msgstr ""
+
+#: /views/traffic/client_month.ctp:29
+msgid "Detail traffic by day for %s"
+msgstr ""
+
+#: /views/traffic/client_month.ctp:45
+msgid "Date"
+msgstr ""
+
+#: /views/traffic/index.ctp:16
+msgid "From"
+msgstr ""
+
+#: /views/traffic/index.ctp:17
+msgid "To"
+msgstr ""
+
+#: /views/traffic/index.ctp:33
+msgid "Clients traffic"
+msgstr ""
+
+#: /views/traffic/index.ctp:39
+msgid "Global In (Mb)"
+msgstr ""
+
+#: /views/traffic/index.ctp:40
+msgid "Global Out (Mb)"
+msgstr ""
+
+#: /views/traffic/index.ctp:41
+msgid "Peering In (Mb)"
+msgstr ""
+
+#: /views/traffic/index.ctp:42
+msgid "Peering Out (Mb)"
+msgstr ""
+
+#: /views/traffic/index.ctp:43
+msgid "Percent"
+msgstr ""
+
+#: /views/traffic/statistic.ctp:2
+msgid "Statistic"
+msgstr ""
+
+#: /views/traffic/statistic.ctp:36
+msgid "Price per megabyte"
+msgstr ""
+
+#: /views/traffic/statistic.ctp:48
+msgid "Details"
+msgstr ""
+
+#: /views/users/add.ctp:4
+msgid "Add User"
+msgstr ""
+
+#: /views/users/add.ctp:18
+#: /views/users/edit.ctp:21
+#: /views/users/view.ctp:41
+msgid "List Users"
+msgstr ""
+
+#: /views/users/edit.ctp:4
+#: /views/users/view.ctp:39
+msgid "Edit User"
+msgstr ""
+
+#: /views/users/index.ctp:53
+#: /views/users/view.ctp:42
+msgid "New User"
+msgstr ""
+
+#: /views/users/login.ctp:4;10
+msgid "Login"
+msgstr ""
+
+#: /views/users/view.ctp:9
+msgid "Username"
+msgstr ""
+
+#: /views/users/view.ctp:19
+msgid "Disabled"
+msgstr ""
+
+#: /views/users/view.ctp:40
+msgid "Delete User"
+msgstr ""
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

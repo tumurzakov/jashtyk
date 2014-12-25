@@ -1,0 +1,56 @@
+.monitoring-chart {
+    width: 90%;
+    margin: auto;
+}
+
+.monitoring-chart-pick {
+    text-align: center;
+    white-space: nowrap;
+}
+
+.chart-highlighter-value {
+    background: #c6dde1;
+    border: 1px solid #a8d3db;
+}
+
+.monitoring-chart-table {
+    width: 100%;
+}
+
+.monitoring-chart-table td {
+    border-bottom: none;
+}
+
+.monitoring-chart-left {
+    width: 50px;
+}
+
+.monitoring-chart-right {
+    width: 50px;
+}
+
+
+.monitoring-chart-side-button {
+    height: 300px;
+}
+
+.monitoring-chart-toolbar-button {
+    width: auto;
+}
+
+.monitoring-chart-topbar table tr td {
+    width: 200px;
+}
+
+.monitoring-chart-date-field {
+    white-space: nowrap;
+}
+
+.monitoring-chart-date-field input {
+    width: 273px !important;
+}
+
+.monitoring-chart-buttons-field {
+    padding-left: 0px;
+}
+

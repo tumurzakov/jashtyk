@@ -1,0 +1,1457 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-06-11 15:17+0600\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /controllers/client_types_controller.php:13;33
+msgid "Invalid client type"
+msgstr "Неверный тип"
+
+#: /controllers/client_types_controller.php:23;38
+msgid "The client type has been saved"
+msgstr "Запись сохранена"
+
+#: /controllers/client_types_controller.php:26;41
+msgid "The client type could not be saved. Please, try again."
+msgstr "Тип не может быть сохранен, пожалуйста попробуйте еще раз"
+
+#: /controllers/client_types_controller.php:51
+msgid "Invalid id for client type"
+msgstr "Неверный идентификатор для типа"
+
+#: /controllers/client_types_controller.php:55
+msgid "Client type deleted"
+msgstr "Тип удален"
+
+#: /controllers/client_types_controller.php:58
+msgid "Client type was not deleted"
+msgstr "Тип не был удален"
+
+#: /controllers/clients_controller.php:36;60
+msgid "Invalid client id"
+msgstr "Неверный идентификатор"
+
+#: /controllers/clients_controller.php:44
+#: /views/clients/index.ctp:2
+msgid "Clients"
+msgstr "Комнаты"
+
+#: /controllers/clients_controller.php:48;67
+msgid "The client has been saved"
+msgstr "Комната была сохранена"
+
+#: /controllers/clients_controller.php:51;70
+msgid "The client could not be saved. Please, try again."
+msgstr "Комната не может быть сохранена, попробуйте еще раз"
+
+#: /controllers/clients_controller.php:82
+msgid "Invalid id for client"
+msgstr "Неверный идентификатор для комнаты"
+
+#: /controllers/clients_controller.php:87
+msgid "Client deleted"
+msgstr "Комната удалена"
+
+#: /controllers/clients_controller.php:90
+msgid "Client was not deleted"
+msgstr "Комната не была удалена"
+
+#: /controllers/configs_controller.php:13;33
+msgid "Invalid config"
+msgstr "Неверная настройка"
+
+#: /controllers/configs_controller.php:23;38
+msgid "The config has been saved"
+msgstr "Настройка сохранена"
+
+#: /controllers/configs_controller.php:26;41
+msgid "The config could not be saved. Please, try again."
+msgstr "Настройка не была сохранена, попробуйте еще раз"
+
+#: /controllers/configs_controller.php:51
+msgid "Invalid id for config"
+msgstr "Неверный идентификатор для настройки"
+
+#: /controllers/configs_controller.php:55
+msgid "Config deleted"
+msgstr "Настройка удалена"
+
+#: /controllers/configs_controller.php:58
+msgid "Config was not deleted"
+msgstr "Настройка не была удалена"
+
+#: /controllers/detail_controller.php:9
+msgid "IP address must not be empty"
+msgstr "IP адрес не может быть пустым"
+
+#: /controllers/detail_controller.php:11
+msgid "Enter a valid IP address"
+msgstr "Пожалуйста введите корректный IP адрес"
+
+#: /controllers/detail_controller.php:13
+msgid "Period must be at least one day long"
+msgstr "Период должен быть не меньше одного дня"
+
+#: /controllers/groups_controller.php:17;37
+msgid "Invalid group"
+msgstr "Неправильный идентификатор группы"
+
+#: /controllers/groups_controller.php:27;42
+msgid "The group has been saved"
+msgstr "Группа была сохранена"
+
+#: /controllers/groups_controller.php:30;45
+msgid "The group could not be saved. Please, try again."
+msgstr "Группа не сохранена, попробуйте еще раз"
+
+#: /controllers/groups_controller.php:55
+msgid "Invalid id for group"
+msgstr "Неправильный идентификатор группы"
+
+#: /controllers/groups_controller.php:59
+msgid "Group deleted"
+msgstr "Группа удалена"
+
+#: /controllers/groups_controller.php:62
+msgid "Group was not deleted"
+msgstr "Группа не удалена"
+
+#: /controllers/ips_controller.php:13;72
+msgid "Invalid ip"
+msgstr "Некорректный IP"
+
+#: /controllers/ips_controller.php:27
+msgid "You haven't specified an count parameter"
+msgstr "Вы не указали количество"
+
+#: /controllers/ips_controller.php:31
+msgid "Invalid IP address format"
+msgstr "Некорректный IP адрес"
+
+#: /controllers/ips_controller.php:38
+msgid "You must specify first IP address of network"
+msgstr "Вы должны указать первый IP адрес подсети"
+
+#: /controllers/ips_controller.php:42
+msgid "Last octet could be in range of 1 to 255"
+msgstr "Последнее число должно быть в промежутке от 1 до 255"
+
+#: /controllers/ips_controller.php:49
+msgid "The IP address %s already belongs to somebody. Saving aborted"
+msgstr "IP адрес %s уже принадлежит кому-то"
+
+#: /controllers/ips_controller.php:58;86
+msgid "The ip could not be saved. Please, try again."
+msgstr "IP адрес не может быть сохранен, попробуйте еще раз"
+
+#: /controllers/ips_controller.php:61
+msgid "The ip addresses has been saved"
+msgstr "IP адрес сохранен"
+
+#: /controllers/ips_controller.php:79
+msgid "The ip already belongs to another client."
+msgstr "IP адрес уже принадлежит кому-то"
+
+#: /controllers/ips_controller.php:82
+msgid "The ip has been saved"
+msgstr "IP адрес сохранен"
+
+#: /controllers/ips_controller.php:97
+msgid "Invalid id for ip"
+msgstr "Неправильный идентификатор IP адреса"
+
+#: /controllers/ips_controller.php:102
+msgid "Ip deleted"
+msgstr "IP адрес удален"
+
+#: /controllers/ips_controller.php:104
+msgid "Ip was not deleted"
+msgstr "IP адрес не удален"
+
+#: /controllers/networks_controller.php:13;33
+msgid "Invalid network"
+msgstr "Неправильный идентификатор сети"
+
+#: /controllers/networks_controller.php:23;38
+msgid "The network has been saved"
+msgstr "Сеть была сохранена"
+
+#: /controllers/networks_controller.php:26;41
+msgid "The network could not be saved. Please, try again."
+msgstr "Ошибка сохранения сети, попробуйте еще раз"
+
+#: /controllers/networks_controller.php:51
+msgid "Invalid id for network"
+msgstr "Неправильный идентификатор сети"
+
+#: /controllers/networks_controller.php:55
+msgid "Network deleted"
+msgstr "Сеть удалена"
+
+#: /controllers/networks_controller.php:58
+msgid "Network was not deleted"
+msgstr "Сеть не удалена"
+
+#: /controllers/payments_controller.php:21;58
+msgid "Invalid payment"
+msgstr "Неправильный идентификатор платежа"
+
+#: /controllers/payments_controller.php:31
+msgid "There are no active sessions."
+msgstr "Вы не указали источник платежа"
+
+#: /controllers/payments_controller.php:33
+msgid "You have not specified an amount"
+msgstr "Вы не указали сумму платежа"
+
+#: /controllers/payments_controller.php:35;63
+msgid "The payment has been saved"
+msgstr "Платеж был сохранен"
+
+#: /controllers/payments_controller.php:38;66
+msgid "The payment could not be saved. Please, try again."
+msgstr "Ошибка сохранения платежа, попробуйте еще раз"
+
+#: /controllers/payments_controller.php:50
+msgid "Please specify session for payment"
+msgstr "Вы не указали источник платежа"
+
+#: /controllers/payments_controller.php:85
+msgid "Invalid id for payment"
+msgstr "Неправильный идентификатор платежа"
+
+#: /controllers/payments_controller.php:89
+msgid "Payment deleted"
+msgstr "Платеж удален"
+
+#: /controllers/payments_controller.php:92
+msgid "Payment was not deleted"
+msgstr "Платеж не удален"
+
+#: /controllers/peerings_controller.php:13;33
+msgid "Invalid peering"
+msgstr "Неправильный идентификатор сети"
+
+#: /controllers/peerings_controller.php:23;38
+msgid "The peering has been saved"
+msgstr "Сеть была сохранена"
+
+#: /controllers/peerings_controller.php:26;41
+msgid "The peering could not be saved. Please, try again."
+msgstr "Ошибка сохранения сети, попробуйте еще раз"
+
+#: /controllers/peerings_controller.php:51
+msgid "Invalid id for peering"
+msgstr "Неправильный идентификатор сети"
+
+#: /controllers/peerings_controller.php:55
+msgid "Peering deleted"
+msgstr "Сеть удалена"
+
+#: /controllers/peerings_controller.php:58
+msgid "Peering was not deleted"
+msgstr "Сеть не удалена"
+
+#: /controllers/room_sessions_controller.php:73;114
+msgid "The room session has been saved"
+msgstr "Сессия была сохранена"
+
+#: /controllers/room_sessions_controller.php:76;117
+msgid "The room session could not be saved. Please, try again."
+msgstr "Ошибка сохранения сети, попробуйте еще раз"
+
+#: /controllers/room_sessions_controller.php:86;94
+msgid "Invalid room session"
+msgstr "Неправильный идентификатор сессии"
+
+#: /controllers/room_sessions_controller.php:129;142;164
+msgid "Invalid id for room session"
+msgstr "Неправильный идентификатор сессии"
+
+#: /controllers/room_sessions_controller.php:133
+msgid "Room session deleted"
+msgstr "Сессия удалена"
+
+#: /controllers/room_sessions_controller.php:136
+msgid "Room session was not deleted"
+msgstr "Сессия не удалена"
+
+#: /controllers/room_sessions_controller.php:154
+msgid "Room session started"
+msgstr "Сессия начата"
+
+#: /controllers/room_sessions_controller.php:158
+msgid "Room session was not started"
+msgstr "Сессия не начата"
+
+#: /controllers/room_sessions_controller.php:174
+msgid "Room session completed"
+msgstr "Сессия завершена"
+
+#: /controllers/room_sessions_controller.php:177
+msgid "Room session was not completed"
+msgstr "Сессия не завершена"
+
+#: /controllers/room_sessions_controller.php:196
+msgid "Room must be specified to start the session"
+msgstr "Сессия не может быть начата без указания комнаты"
+
+#: /controllers/room_sessions_controller.php:203
+msgid "Tariff must be specified to start the session"
+msgstr "Сессия не может быть начата без указания тарифа"
+
+#: /controllers/room_sessions_controller.php:213
+msgid "There is already started session, close it first"
+msgstr "На этой комнате уже есть начатая сессия, сначала остановите ее"
+
+#: /controllers/room_sessions_controller.php:222
+msgid "Not enaught balance to start session"
+msgstr "Недостаточно средств начать сессию"
+
+#: /controllers/tariffs_controller.php:13;36
+msgid "Invalid tariff"
+msgstr "Неверный идентификатор тарифа"
+
+#: /controllers/tariffs_controller.php:23;41
+msgid "The tariff has been saved"
+msgstr "Тариф сохранен"
+
+#: /controllers/tariffs_controller.php:26;44
+msgid "The tariff could not be saved. Please, try again."
+msgstr "Ошибка сохранения тарифа, попробуйте еще раз"
+
+#: /controllers/tariffs_controller.php:57
+msgid "Invalid id for tariff"
+msgstr "Неверный идентификатор тарифа"
+
+#: /controllers/tariffs_controller.php:61
+msgid "Tariff deleted"
+msgstr "Тариф удален"
+
+#: /controllers/tariffs_controller.php:64
+msgid "Tariff was not deleted"
+msgstr "Тариф не удален"
+
+#: /controllers/traffic_controller.php:14
+#: /views/traffic/statistic.ctp:41
+msgid "Total"
+msgstr "Итого"
+
+#: /controllers/traffic_controller.php:81;114
+msgid "Invalid client id"
+msgstr "Неправильный идентификатор клиента"
+
+#: /controllers/users_controller.php:26;48
+msgid "Invalid user"
+msgstr "Неправильный идентификатор пользователя"
+
+#: /controllers/users_controller.php:36;53
+msgid "The user has been saved"
+msgstr "Пользователь сохранен"
+
+#: /controllers/users_controller.php:39;56
+msgid "The user could not be saved. Please, try again."
+msgstr "Ошибка сохранения пользователя, попробуйте еще раз"
+
+#: /controllers/users_controller.php:68
+msgid "Invalid id for user"
+msgstr "Неправильный идентификатор пользователя"
+
+#: /controllers/users_controller.php:72
+msgid "User deleted"
+msgstr "Пользователь удален"
+
+#: /controllers/users_controller.php:75
+msgid "User was not deleted"
+msgstr "Пользователь не удален"
+
+#: /views/channel_speed/index.ctp:1
+#: /views/pages/home.ctp:40
+msgid "Channel Speed Chart"
+msgstr "График потребления канала"
+
+#: /views/channel_speed/index.ctp:8
+msgid "Load"
+msgstr "Загрузить"
+
+#: /views/client_types/add.ctp:4
+msgid "Add Client Type"
+msgstr "Добавить тип комнаты"
+
+#: /views/client_types/add.ctp:10
+#: /views/client_types/edit.ctp:11
+#: /views/clients/add.ctp:11
+#: /views/clients/edit.ctp:12
+#: /views/configs/add.ctp:11
+#: /views/configs/edit.ctp:12
+#: /views/detail/index.ctp:10
+#: /views/groups/add.ctp:9
+#: /views/groups/edit.ctp:10
+#: /views/ips/add.ctp:10
+#: /views/ips/edit.ctp:14
+#: /views/networks/add.ctp:11
+#: /views/networks/edit.ctp:12
+#: /views/payments/add.ctp:15
+#: /views/payments/edit.ctp:12
+#: /views/peerings/add.ctp:11
+#: /views/peerings/edit.ctp:12
+#: /views/room_sessions/add.ctp:29
+#: /views/room_sessions/edit.ctp:37
+#: /views/tariffs/add.ctp:14
+#: /views/tariffs/edit.ctp:15
+#: /views/users/add.ctp:12
+#: /views/users/edit.ctp:14
+msgid "Submit"
+msgstr "Отправить"
+
+#: /views/client_types/add.ctp:13
+#: /views/client_types/edit.ctp:14
+#: /views/client_types/index.ctp:7;44
+#: /views/client_types/view.ctp:22
+#: /views/clients/add.ctp:14
+#: /views/clients/edit.ctp:15
+#: /views/clients/index.ctp:17;55
+#: /views/clients/view.ctp:27;41;43
+#: /views/configs/add.ctp:14
+#: /views/configs/edit.ctp:15
+#: /views/configs/index.ctp:9;47
+#: /views/configs/view.ctp:27
+#: /views/detail/index.ctp:28
+#: /views/groups/add.ctp:12
+#: /views/groups/edit.ctp:13
+#: /views/groups/index.ctp:9;47
+#: /views/groups/view.ctp:27
+#: /views/ips/add.ctp:13
+#: /views/ips/edit.ctp:17
+#: /views/ips/index.ctp:10;51
+#: /views/ips/view.ctp:33
+#: /views/networks/add.ctp:14
+#: /views/networks/edit.ctp:15
+#: /views/networks/index.ctp:9;47
+#: /views/networks/view.ctp:27
+#: /views/payments/add.ctp:18
+#: /views/payments/edit.ctp:15
+#: /views/payments/index.ctp:11;53
+#: /views/payments/view.ctp:37
+#: /views/peerings/add.ctp:14
+#: /views/peerings/edit.ctp:15
+#: /views/peerings/index.ctp:9;47
+#: /views/peerings/view.ctp:27
+#: /views/room_sessions/add.ctp:35
+#: /views/room_sessions/edit.ctp:43
+#: /views/room_sessions/index.ctp:88
+#: /views/room_sessions/view.ctp:87
+#: /views/tariffs/add.ctp:17
+#: /views/tariffs/edit.ctp:18
+#: /views/tariffs/index.ctp:12;53
+#: /views/tariffs/view.ctp:42
+#: /views/users/add.ctp:15
+#: /views/users/edit.ctp:17
+#: /views/users/index.ctp:11;51
+#: /views/users/view.ctp:37
+msgid "Actions"
+msgstr "Действия"
+
+#: /views/client_types/add.ctp:16
+#: /views/client_types/edit.ctp:18
+#: /views/client_types/view.ctp:26
+msgid "List Client Types"
+msgstr "Список типов комнат"
+
+#: /views/client_types/edit.ctp:4
+#: /views/client_types/view.ctp:24
+msgid "Edit Client Type"
+msgstr "Редактировать тип комнаты"
+
+#: /views/client_types/edit.ctp:17
+#: /views/client_types/index.ctp:24
+#: /views/clients/edit.ctp:18
+#: /views/clients/index.ctp:35
+#: /views/clients/view.ctp:56
+#: /views/configs/edit.ctp:18
+#: /views/configs/index.ctp:27
+#: /views/groups/edit.ctp:16
+#: /views/groups/index.ctp:27
+#: /views/ips/edit.ctp:21
+#: /views/ips/index.ctp:31
+#: /views/networks/edit.ctp:18
+#: /views/networks/index.ctp:27
+#: /views/payments/edit.ctp:19
+#: /views/payments/index.ctp:33
+#: /views/peerings/edit.ctp:18
+#: /views/peerings/index.ctp:27
+#: /views/room_sessions/edit.ctp:46
+#: /views/tariffs/edit.ctp:22
+#: /views/tariffs/index.ctp:33
+#: /views/users/edit.ctp:20
+#: /views/users/index.ctp:31
+msgid "Delete"
+msgstr "Удалить"
+
+#: /views/client_types/edit.ctp:17
+#: /views/client_types/index.ctp:24
+#: /views/client_types/view.ctp:25
+#: /views/clients/edit.ctp:18
+#: /views/clients/index.ctp:35
+#: /views/clients/view.ctp:30;56
+#: /views/configs/edit.ctp:18
+#: /views/configs/index.ctp:27
+#: /views/configs/view.ctp:30
+#: /views/groups/edit.ctp:16
+#: /views/groups/index.ctp:27
+#: /views/groups/view.ctp:30
+#: /views/ips/edit.ctp:21
+#: /views/ips/index.ctp:31
+#: /views/ips/view.ctp:36
+#: /views/networks/edit.ctp:18
+#: /views/networks/index.ctp:27
+#: /views/networks/view.ctp:30
+#: /views/payments/edit.ctp:19
+#: /views/payments/index.ctp:33
+#: /views/payments/view.ctp:40
+#: /views/peerings/edit.ctp:18
+#: /views/peerings/index.ctp:27
+#: /views/peerings/view.ctp:30
+#: /views/room_sessions/edit.ctp:46
+#: /views/room_sessions/view.ctp:101
+#: /views/tariffs/edit.ctp:22
+#: /views/tariffs/index.ctp:33
+#: /views/tariffs/view.ctp:45
+#: /views/users/edit.ctp:20
+#: /views/users/index.ctp:31
+#: /views/users/view.ctp:40
+msgid "Are you sure you want to delete # %s?"
+msgstr "Вы уверены, что хотите удалить запись # %s?"
+
+#: /views/client_types/index.ctp:2
+msgid "Client Types"
+msgstr "Типы комнат"
+
+#: /views/client_types/index.ctp:22
+#: /views/clients/index.ctp:33
+#: /views/configs/index.ctp:25
+#: /views/detail/index.ctp:46
+#: /views/groups/index.ctp:25
+#: /views/ips/index.ctp:29
+#: /views/networks/index.ctp:25
+#: /views/payments/index.ctp:31
+#: /views/peerings/index.ctp:25
+#: /views/room_sessions/index.ctp:66
+#: /views/tariffs/index.ctp:31
+#: /views/users/index.ctp:29
+msgid "View"
+msgstr "Просмотр"
+
+#: /views/client_types/index.ctp:23
+#: /views/clients/index.ctp:34
+#: /views/clients/view.ctp:55
+#: /views/configs/index.ctp:26
+#: /views/groups/index.ctp:26
+#: /views/ips/index.ctp:30
+#: /views/networks/index.ctp:26
+#: /views/payments/index.ctp:32
+#: /views/peerings/index.ctp:26
+#: /views/room_sessions/index.ctp:67
+#: /views/tariffs/index.ctp:32
+#: /views/users/index.ctp:30
+msgid "Edit"
+msgstr "Изменить"
+
+#: /views/client_types/index.ctp:32
+#: /views/clients/index.ctp:43
+#: /views/configs/index.ctp:35
+#: /views/groups/index.ctp:35
+#: /views/ips/index.ctp:39
+#: /views/networks/index.ctp:35
+#: /views/payments/index.ctp:41
+#: /views/peerings/index.ctp:35
+#: /views/tariffs/index.ctp:41
+#: /views/traffic/client_day.ctp:69
+#: /views/users/index.ctp:39
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr "Страница %page% из %pages%, %current% записей из %count%, начиная с %start% по %end%"
+
+#: /views/client_types/index.ctp:37
+#: /views/clients/index.ctp:48
+#: /views/configs/index.ctp:40
+#: /views/detail/index.ctp:53
+#: /views/groups/index.ctp:40
+#: /views/ips/index.ctp:44
+#: /views/networks/index.ctp:40
+#: /views/payments/index.ctp:46
+#: /views/peerings/index.ctp:40
+#: /views/tariffs/index.ctp:46
+#: /views/traffic/client_day.ctp:74
+#: /views/users/index.ctp:44
+msgid "previous"
+msgstr "предыдущая"
+
+#: /views/client_types/index.ctp:40
+#: /views/clients/index.ctp:51
+#: /views/configs/index.ctp:43
+#: /views/detail/index.ctp:55
+#: /views/groups/index.ctp:43
+#: /views/ips/index.ctp:47
+#: /views/networks/index.ctp:43
+#: /views/payments/index.ctp:49
+#: /views/peerings/index.ctp:43
+#: /views/tariffs/index.ctp:49
+#: /views/traffic/client_day.ctp:77
+#: /views/users/index.ctp:47
+msgid "next"
+msgstr "следующая"
+
+#: /views/client_types/index.ctp:46
+#: /views/client_types/view.ctp:27
+msgid "New Client Type"
+msgstr "Новый тип комнаты"
+
+#: /views/client_types/view.ctp:2
+#: /views/clients/view.ctp:19
+#: /views/traffic/index.ctp:38
+msgid "Client Type"
+msgstr "Тип комнаты"
+
+#: /views/client_types/view.ctp:4
+#: /views/clients/view.ctp:4
+#: /views/configs/view.ctp:4
+#: /views/detail/view.ctp:7
+#: /views/groups/view.ctp:4
+#: /views/ips/view.ctp:4
+#: /views/networks/view.ctp:4
+#: /views/payments/view.ctp:4
+#: /views/peerings/view.ctp:4
+#: /views/room_sessions/view.ctp:4
+#: /views/tariffs/view.ctp:4
+#: /views/users/view.ctp:4
+msgid "Id"
+msgstr "#"
+
+#: /views/client_types/view.ctp:9
+#: /views/clients/view.ctp:9
+#: /views/configs/view.ctp:9
+#: /views/groups/view.ctp:9
+#: /views/pages/home.ctp:6
+#: /views/room_sessions/view.ctp:9
+#: /views/tariffs/view.ctp:14
+#: /views/traffic/statistic.ctp:11
+msgid "Name"
+msgstr "Имя"
+
+#: /views/client_types/view.ctp:14
+#: /views/clients/view.ctp:14
+#: /views/configs/view.ctp:19
+#: /views/detail/index.ctp:27
+#: /views/detail/view.ctp:27
+#: /views/ips/view.ctp:24
+#: /views/networks/view.ctp:19
+#: /views/pages/home.ctp:7
+#: /views/payments/view.ctp:29
+#: /views/peerings/view.ctp:19
+#: /views/room_sessions/view.ctp:14
+#: /views/tariffs/view.ctp:19
+msgid "Description"
+msgstr "Описание"
+
+#: /views/client_types/view.ctp:25
+msgid "Delete Client Type"
+msgstr "Удалить тип комнаты"
+
+#: /views/clients/add.ctp:4
+msgid "Add Client"
+msgstr "Добавить комнату"
+
+#: /views/clients/add.ctp:17
+#: /views/clients/edit.ctp:19
+#: /views/clients/view.ctp:31
+#: /views/ips/add.ctp:17
+#: /views/ips/index.ctp:53
+#: /views/ips/view.ctp:39
+msgid "List Clients"
+msgstr "Список комнат"
+
+#: /views/clients/edit.ctp:4
+#: /views/clients/view.ctp:29
+msgid "Edit Client"
+msgstr "Изменить комнату"
+
+#: /views/clients/index.ctp:6
+#: /views/room_sessions/index.ctp:84
+msgid "Filter"
+msgstr "Фильтр"
+
+#: /views/clients/index.ctp:8
+msgid "Find"
+msgstr "Найти"
+
+#: /views/clients/index.ctp:57
+#: /views/clients/view.ctp:32
+#: /views/ips/index.ctp:54
+#: /views/ips/view.ctp:40
+msgid "New Client"
+msgstr "Новая комната"
+
+#: /views/clients/view.ctp:2
+#: /views/ips/view.ctp:9
+#: /views/room_sessions/view.ctp:19
+#: /views/traffic/index.ctp:37
+msgid "Client"
+msgstr "Комната"
+
+#: /views/clients/view.ctp:30
+msgid "Delete Client"
+msgstr "Удалить комнату"
+
+#: /views/clients/view.ctp:36
+msgid "Related Ips"
+msgstr "Связанные IP адреса"
+
+#: /views/clients/view.ctp:40;42
+#: /views/ips/view.ctp:2;14
+msgid "Ip"
+msgstr "IP адрес"
+
+#: /views/clients/view.ctp:65
+#: /views/ips/view.ctp:38
+msgid "New Ip"
+msgstr "Новый IP адрес"
+
+#: /views/configs/add.ctp:4
+msgid "Add Config"
+msgstr "Добавить настройку"
+
+#: /views/configs/add.ctp:17
+#: /views/configs/edit.ctp:19
+#: /views/configs/view.ctp:31
+msgid "List Configs"
+msgstr "Список настроек"
+
+#: /views/configs/edit.ctp:4
+#: /views/configs/view.ctp:29
+msgid "Edit Config"
+msgstr "Изменить настройку"
+
+#: /views/configs/index.ctp:2
+msgid "Configs"
+msgstr "Настройки"
+
+#: /views/configs/index.ctp:49
+#: /views/configs/view.ctp:32
+msgid "New Config"
+msgstr "Новая настройка"
+
+#: /views/configs/view.ctp:2
+msgid "Config"
+msgstr "Настройка"
+
+#: /views/configs/view.ctp:14
+#: /views/detail/view.ctp:4
+msgid "Value"
+msgstr "Значение"
+
+#: /views/configs/view.ctp:30
+msgid "Delete Config"
+msgstr "Удалить настройку"
+
+#: /views/detail/index.ctp:1
+msgid "Detail statistic by IP address"
+msgstr "Детализация по IP адресу"
+
+#: /views/detail/index.ctp:16
+msgid "Page %page% of %pages%, "
+msgstr "Страница %page% из %pages%, "
+
+#: /views/detail/index.ctp:23
+#: /views/detail/view.ctp:11
+msgid "IP address"
+msgstr "IP адрес"
+
+#: /views/detail/index.ctp:24
+#: /views/detail/view.ctp:15
+msgid "Begin date"
+msgstr "Начало"
+
+#: /views/detail/index.ctp:25
+#: /views/detail/view.ctp:19
+msgid "End date"
+msgstr "Конец"
+
+#: /views/detail/index.ctp:26
+#: /views/detail/view.ctp:23
+#: /views/room_sessions/index.ctp:23
+#: /views/room_sessions/view.ctp:59
+msgid "Status"
+msgstr "Статус"
+
+#: /views/detail/index.ctp:40
+msgid "Cancel"
+msgstr "Отмена"
+
+#: /views/detail/index.ctp:43
+msgid "Download"
+msgstr "Скачать"
+
+#: /views/detail/view.ctp:3
+msgid "Field"
+msgstr "Поле"
+
+#: /views/detail/view.ctp:31
+#: /views/groups/view.ctp:14
+#: /views/payments/view.ctp:14
+#: /views/room_sessions/view.ctp:49
+#: /views/users/view.ctp:24
+msgid "Created"
+msgstr "Создан"
+
+#: /views/detail/view.ctp:35
+msgid "Started"
+msgstr "Начат"
+
+#: /views/detail/view.ctp:39
+msgid "Completed"
+msgstr "Закончен"
+
+#: /views/detail/view.ctp:43
+msgid "File"
+msgstr "Файл"
+
+#: /views/detail/view.ctp:47
+#: /views/traffic/client_day.ctp:3
+msgid "Back"
+msgstr "Назад"
+
+#: /views/groups/add.ctp:4
+msgid "Add Group"
+msgstr "Добавить группу"
+
+#: /views/groups/add.ctp:15
+#: /views/groups/edit.ctp:17
+#: /views/groups/view.ctp:31
+#: /views/users/add.ctp:19
+#: /views/users/edit.ctp:22
+#: /views/users/view.ctp:43
+msgid "List Groups"
+msgstr "Список групп"
+
+#: /views/groups/edit.ctp:4
+#: /views/groups/view.ctp:29
+msgid "Edit Group"
+msgstr "Изменить группу"
+
+#: /views/groups/index.ctp:2
+msgid "Groups"
+msgstr "Группы"
+
+#: /views/groups/index.ctp:49
+#: /views/groups/view.ctp:32
+#: /views/users/add.ctp:20
+#: /views/users/edit.ctp:23
+#: /views/users/view.ctp:44
+msgid "New Group"
+msgstr "Новая группа"
+
+#: /views/groups/view.ctp:2
+#: /views/users/view.ctp:14
+msgid "Group"
+msgstr "Группа"
+
+#: /views/groups/view.ctp:19
+#: /views/payments/view.ctp:19
+#: /views/room_sessions/view.ctp:54
+#: /views/users/view.ctp:29
+msgid "Modified"
+msgstr "Изменена"
+
+#: /views/groups/view.ctp:30
+msgid "Delete Group"
+msgstr "Удалить группу"
+
+#: /views/helpers/graph.php:23
+msgid "Bandwidth Mbit/s"
+msgstr "Полоса Мбит/с"
+
+#: /views/ips/add.ctp:4
+msgid "Add IP subnet to room %s"
+msgstr "Добавить IP подсеть в комнату %s"
+
+#: /views/ips/add.ctp:7
+msgid "Count (Could be in range of 1 to 254)"
+msgstr "Количество (от 1 до 254)"
+
+#: /views/ips/add.ctp:16
+msgid "View Client"
+msgstr "Просмотр комнаты"
+
+#: /views/ips/edit.ctp:5
+msgid "Edit ip of room %s"
+msgstr "Изменить IP адрес комнаты"
+
+#: /views/ips/edit.ctp:20
+#: /views/room_sessions/index.ctp:18
+msgid "Room"
+msgstr "Комната" 
+
+#: /views/ips/index.ctp:2
+msgid "Ips"
+msgstr "IP адреса"
+
+#: /views/ips/view.ctp:19
+msgid "Mac"
+msgstr "MAC"
+
+#: /views/ips/view.ctp:35
+msgid "Edit Ip"
+msgstr "Изменить IP адрес"
+
+#: /views/ips/view.ctp:36
+msgid "Delete Ip"
+msgstr "Удалить IP адрес"
+
+#: /views/ips/view.ctp:37
+msgid "List Ips"
+msgstr "Список IP адресов"
+
+#: /views/layouts/default.ctp:25;43
+msgid "Golden Dragon Network Billing"
+msgstr ""
+
+#: /views/layouts/default.ctp:45
+#: /views/pages/home.ctp:2
+msgid "Table of contents"
+msgstr "Список инструментов"
+
+#: /views/layouts/default.ctp:46
+msgid "Refresh"
+msgstr "Обновить"
+
+#: /views/layouts/default.ctp:48
+msgid "Logout"
+msgstr "Выход"
+
+#: /views/layouts/default.ctp:49
+msgid "You have entered as %s"
+msgstr "Вы вошли как %s"
+
+#: /views/networks/add.ctp:4
+msgid "Add Network"
+msgstr "Добавить сеть"
+
+#: /views/networks/add.ctp:17
+#: /views/networks/edit.ctp:19
+#: /views/networks/view.ctp:31
+msgid "List Networks"
+msgstr "Список сетей"
+
+#: /views/networks/edit.ctp:4
+#: /views/networks/view.ctp:29
+msgid "Edit Network"
+msgstr "Изменить сеть"
+
+#: /views/networks/index.ctp:2
+msgid "Networks"
+msgstr "Сети"
+
+#: /views/networks/index.ctp:49
+#: /views/networks/view.ctp:32
+msgid "New Network"
+msgstr "Новая сеть"
+
+#: /views/networks/view.ctp:2;9
+#: /views/peerings/view.ctp:9
+msgid "Network"
+msgstr "Сеть"
+
+#: /views/networks/view.ctp:14
+#: /views/peerings/view.ctp:14
+msgid "Mask"
+msgstr "Маска"
+
+#: /views/networks/view.ctp:30
+msgid "Delete Network"
+msgstr "Удалить сеть"
+
+#: /views/pages/home.ctp:10
+msgid "Traffic usage by guest"
+msgstr "Отчет по постояльцам"
+
+#: /views/pages/home.ctp:11
+msgid "Internet service management tool for guests"
+msgstr "Инструмент управления доступом к услуге Интернет для постояльцев."
+
+#: /views/pages/home.ctp:16
+msgid "Traffic usage by room"
+msgstr "Отчет по комнатам"
+
+#: /views/pages/home.ctp:17
+msgid "This report shows how much traffic use this month each room and gives detailed explanation about when this traffic were used"
+msgstr "Потребление услуги Интернет по комнатам с детальным описанием."
+
+#: /views/pages/home.ctp:23
+#: /views/payments/add.ctp:23;25
+#: /views/payments/index.ctp:2
+#: /views/room_sessions/view.ctp:105
+msgid "Payments"
+msgstr "Платежи"
+
+#: /views/pages/home.ctp:24
+msgid "Recent customer payments"
+msgstr "Последние платежи"
+
+#: /views/pages/home.ctp:28
+msgid "Client management"
+msgstr "Управление комнатами"
+
+#: /views/pages/home.ctp:29
+msgid "There is a tool for inserting, editing and deleting users from billing"
+msgstr "Инструмент для добавления, редактирования и удаления комнат из учетной системы"
+
+#: /views/pages/home.ctp:34
+msgid "Tariff management"
+msgstr "Управление тарифами"
+
+#: /views/pages/home.ctp:35
+msgid "There is a tool for inserting, editing and deleting tariffs"
+msgstr "Инструмент управления тарифами, позволяет задать стоимости трафика по направлениям"
+
+#: /views/pages/home.ctp:41
+msgid "Graphical representation of Internet service usage"
+msgstr "Графическое представление потребления услуги Интернет"
+
+#: /views/pages/home.ctp:46
+msgid "Raw statistic"
+msgstr "Детализация"
+
+#: /views/pages/home.ctp:47
+msgid "Detailed statistic generating tool. It compiles an arhive with raw data by specified IP adress and period"
+msgstr "Инструмент детализации. Собирает архив с сырыми данными по указанному IP адресу и периоду"
+
+#: /views/pages/home.ctp:53
+msgid "Peering networks"
+msgstr "Кыргызские сети"
+
+#: /views/pages/home.ctp:54
+msgid "Traffic to this networks comes through billing without accounting"
+msgstr "Трафик на кыргызские подсети не считается"
+
+#: /views/pages/home.ctp:59
+msgid "Billing networks"
+msgstr "Учитываемые сети"
+
+#: /views/pages/home.ctp:60
+msgid "Networks that we use for our clients"
+msgstr "Сети по которым производим учет наших клиентов"
+
+#: /views/pages/home.ctp:65
+msgid "MAC-IP Binding"
+msgstr "Привязка MAC-IP"
+
+#: /views/pages/home.ctp:66
+msgid "Binding computer by unique network address"
+msgstr "Привязка компьютеров по уникальному сетевому адресу"
+
+#: /views/pages/home.ctp:72
+msgid "Settings"
+msgstr "Настройка"
+
+#: /views/pages/home.ctp:73
+msgid "Various configuration variables"
+msgstr "Параметры системы"
+
+#: /views/pages/home.ctp:81
+#: /views/users/index.ctp:2
+msgid "Users"
+msgstr "Пользователи"
+
+#: /views/pages/home.ctp:82
+msgid "System user management"
+msgstr "Управление пользователями биллинга"
+
+#: /views/payments/add.ctp:4
+msgid "Add Payment"
+msgstr "Добавить платеж"
+
+#: /views/payments/add.ctp:22
+#: /views/payments/index.ctp:57
+#: /views/room_sessions/index.ctp:19
+msgid "Session"
+msgstr "Сессия"
+
+#: /views/payments/edit.ctp:4
+#: /views/payments/view.ctp:39
+msgid "Edit Payment"
+msgstr "Изменить платеж"
+
+#: /views/payments/edit.ctp:17
+#: /views/payments/index.ctp:55
+#: /views/payments/view.ctp:42
+#: /views/room_sessions/view.ctp:104
+msgid "New Payment"
+msgstr "Новый платеж"
+
+#: /views/payments/edit.ctp:20
+#: /views/payments/view.ctp:41
+msgid "List Payments"
+msgstr "Список платежей"
+
+#: /views/payments/view.ctp:2
+msgid "Payment"
+msgstr "Платеж"
+
+#: /views/payments/view.ctp:9
+#: /views/room_sessions/view.ctp:2
+msgid "Room Session"
+msgstr "Сессия"
+
+#: /views/payments/view.ctp:24
+msgid "Amount"
+msgstr "Сумма"
+
+#: /views/payments/view.ctp:40
+msgid "Delete Payment"
+msgstr "Удалить платеж"
+
+#: /views/peerings/add.ctp:4
+msgid "Add Peering"
+msgstr "Добавить сеть"
+
+#: /views/peerings/add.ctp:17
+#: /views/peerings/edit.ctp:19
+#: /views/peerings/view.ctp:31
+msgid "List Peerings"
+msgstr "Список сетей"
+
+#: /views/peerings/edit.ctp:4
+#: /views/peerings/view.ctp:29
+msgid "Edit Peering"
+msgstr "Изменить сеть"
+
+#: /views/peerings/index.ctp:2
+msgid "Peerings"
+msgstr "Сети"
+
+#: /views/peerings/index.ctp:49
+#: /views/peerings/view.ctp:32
+msgid "New Peering"
+msgstr "Новая сеть"
+
+#: /views/peerings/index.ctp:50
+msgid "Update"
+msgstr "Обновить"
+
+#: /views/peerings/view.ctp:2
+msgid "Peering"
+msgstr "Сеть"
+
+#: /views/peerings/view.ctp:30
+msgid "Delete Peering"
+msgstr "Удалить сеть"
+
+#: /views/room_sessions/add.ctp:4
+msgid "Add Room Session"
+msgstr "Добавить сессию"
+
+#: /views/room_sessions/add.ctp:37
+#: /views/room_sessions/edit.ctp:47
+#: /views/room_sessions/view.ctp:103
+msgid "List Room Sessions"
+msgstr "Список сессий"
+
+#: /views/room_sessions/edit.ctp:9
+#: /views/room_sessions/view.ctp:100
+msgid "Edit Room Session"
+msgstr "Изменить сессию"
+
+#: /views/room_sessions/index.ctp:20
+#: /views/room_sessions/view.ctp:24
+#: /views/tariffs/view.ctp:2
+msgid "Tariff"
+msgstr "Тариф"
+
+#: /views/room_sessions/index.ctp:21
+#: /views/room_sessions/view.ctp:29
+msgid "Balance"
+msgstr "Баланс"
+
+#: /views/room_sessions/index.ctp:22
+#: /views/room_sessions/view.ctp:34
+msgid "Usage"
+msgstr "Потребление"
+
+#: /views/room_sessions/index.ctp:43
+msgid "From %s to %s"
+msgstr "С %s по %s "
+
+#: /views/room_sessions/index.ctp:60
+#: /views/room_sessions/view.ctp:93
+msgid "Start now"
+msgstr "Начать"
+
+#: /views/room_sessions/index.ctp:62
+#: /views/room_sessions/view.ctp:95
+msgid "End now"
+msgstr "Завершить"
+
+#: /views/room_sessions/index.ctp:90
+msgid "Add Session"
+msgstr "Добавить сессию"
+
+#: /views/room_sessions/view.ctp:39
+msgid "Start"
+msgstr "Начало"
+
+#: /views/room_sessions/view.ctp:44
+msgid "End"
+msgstr "Конец"
+
+#: /views/room_sessions/view.ctp:64
+#: /views/traffic/client_month.ctp:46
+#: /views/traffic/statistic.ctp:16
+msgid "Global In"
+msgstr "Внешний мир, входящий"
+
+#: /views/room_sessions/view.ctp:69
+#: /views/traffic/client_month.ctp:47
+#: /views/traffic/statistic.ctp:21
+msgid "Global Out"
+msgstr "Внешний мир, исходящий"
+
+#: /views/room_sessions/view.ctp:74
+#: /views/traffic/client_month.ctp:48
+#: /views/traffic/statistic.ctp:26
+msgid "Peering In"
+msgstr "Кыргызстан, входящий"
+
+#: /views/room_sessions/view.ctp:79
+#: /views/traffic/client_month.ctp:49
+#: /views/traffic/statistic.ctp:31
+msgid "Peering Out"
+msgstr "Кыргызстан, исходящий"
+
+#: /views/room_sessions/view.ctp:101
+msgid "Delete Room Session"
+msgstr "Удалить сессию"
+
+#: /views/room_sessions/view.ctp:102
+msgid "New Room Session"
+msgstr "Новая сессия"
+
+#: /views/tariffs/add.ctp:4
+msgid "Add Tariff"
+msgstr "Добавить тариф"
+
+#: /views/tariffs/add.ctp:20
+#: /views/tariffs/edit.ctp:23
+#: /views/tariffs/view.ctp:46
+msgid "List Tariffs"
+msgstr "Список тарифов"
+
+#: /views/tariffs/edit.ctp:4
+#: /views/tariffs/view.ctp:44
+msgid "Edit Tariff"
+msgstr "Изменить тариф"
+
+#: /views/tariffs/edit.ctp:21
+#: /views/tariffs/index.ctp:55
+#: /views/tariffs/view.ctp:47
+msgid "New Tariff"
+msgstr "Новый тариф"
+
+#: /views/tariffs/index.ctp:2
+msgid "Tariffs"
+msgstr "Тарифы"
+
+#: /views/tariffs/view.ctp:9
+msgid "Tariff Type"
+msgstr "Тип тарифа"
+
+#: /views/tariffs/view.ctp:24
+msgid "Global Price"
+msgstr "Цена международного трафика"
+
+#: /views/tariffs/view.ctp:29
+msgid "Peering Price"
+msgstr "Цена кыргызского трафика"
+
+#: /views/tariffs/view.ctp:34
+msgid "Starting Balance"
+msgstr "Начальный баланс"
+
+#: /views/tariffs/view.ctp:45
+msgid "Delete Tariff"
+msgstr "Удалить тариф"
+
+#: /views/traffic/client_chart.ctp:2
+msgid "Table"
+msgstr "Таблица"
+
+#: /views/traffic/client_chart.ctp:9
+#: /views/traffic/client_day.ctp:8
+#: /views/traffic/client_month.ctp:8
+msgid "All"
+msgstr "Все"
+
+#: /views/traffic/client_chart.ctp:37
+#: /views/traffic/client_day.ctp:35
+#: /views/traffic/client_month.ctp:38
+#: /views/traffic/index.ctp:30
+#: /views/traffic/statistic.ctp:7
+msgid "Report"
+msgstr "Отчет"
+
+#: /views/traffic/client_month.ctp:3
+msgid "Chart"
+msgstr "График"
+
+#: /views/traffic/client_month.ctp:29
+msgid "Detail traffic by day for %s"
+msgstr "Потребление за день %s"
+
+#: /views/traffic/client_month.ctp:45
+msgid "Date"
+msgstr "Дата"
+
+#: /views/traffic/index.ctp:20
+msgid "Clients traffic"
+msgstr "Потребление комнатой"
+
+#: /views/traffic/index.ctp:24
+msgid "From"
+msgstr "С"
+
+#: /views/traffic/index.ctp:25
+msgid "To"
+msgstr "По"
+
+#: /views/traffic/index.ctp:39
+msgid "Global In (Mb)"
+msgstr "Внешний мир, входящий (Мб)"
+
+#: /views/traffic/index.ctp:40
+msgid "Global Out (Mb)"
+msgstr "Внешний мир, исходящий (Mб)"
+
+#: /views/traffic/index.ctp:41
+msgid "Peering In (Mb)"
+msgstr "Кыргызстан, входящий (Мб)"
+
+#: /views/traffic/index.ctp:42
+msgid "Peering Out (Mb)"
+msgstr "Кыргызстан, исходящий (Мб)"
+
+#: /views/traffic/index.ctp:43
+msgid "Percent"
+msgstr "Процент"
+
+#: /views/traffic/statistic.ctp:2
+msgid "Statistic"
+msgstr "Статистика"
+
+#: /views/traffic/statistic.ctp:36
+msgid "Price per megabyte"
+msgstr "Цена за мегабайт"
+
+#: /views/traffic/statistic.ctp:48
+msgid "Details"
+msgstr "Детали"
+
+#: /views/users/add.ctp:4
+msgid "Add User"
+msgstr "Добавить пользователя"
+
+#: /views/users/add.ctp:18
+#: /views/users/edit.ctp:21
+#: /views/users/view.ctp:41
+msgid "List Users"
+msgstr "Список пользователей"
+
+#: /views/users/edit.ctp:4
+#: /views/users/view.ctp:39
+msgid "Edit User"
+msgstr "Изменить пользователя"
+
+#: /views/users/index.ctp:53
+#: /views/users/view.ctp:42
+msgid "New User"
+msgstr "Новый пользователь"
+
+#: /views/users/login.ctp:4;10
+msgid "Login"
+msgstr "Вход"
+
+#: /views/users/view.ctp:2
+msgid "User"
+msgstr "Пользователь"
+
+#: /views/users/view.ctp:9
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: /views/users/view.ctp:19
+msgid "Disabled"
+msgstr "Отключен"
+
+#: /views/users/view.ctp:40
+msgid "Delete User"
+msgstr "Удалить пользователя"
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+msgid "Turn on"
+msgstr "Включить"
+
+msgid "Turn off"
+msgstr "Выключить"
+
+msgid "Current"
+msgstr "Текущий"
+
+msgid "not found"
+msgstr "не найден"
+
+msgid "Default Limit"
+msgstr "Лимит по умолчанию"
+
+msgid "Limit"
+msgstr "Лимит"
+
+msgid "Payment Category"
+msgstr "Категория платежа"
+
+#: /models/payment.php:61
+msgid "Payment modified amount changed from %.2f to %.2f"
+msgstr "Изменилась сумма платежа с %.2f на %.2f"
+
+#: /models/payment.php:76
+msgid "Payment deleted amount %.2f"
+msgstr "Удален платеж на сумму %.2f"
+
+msgid "Are you sure want to start session?"
+msgstr "Вы уверены, что хотите начать сессию?"
+
+msgid "Are you sure want to stop session?"
+msgstr "Вы уверены, что хотите завершить сессию?"
+
+msgid "Invoice"
+msgstr "Счет"
+
+msgid "Client turned on"
+msgstr "Интернет в комнате включен"
+
+msgid "Client turned off"
+msgstr "Интернет в комнате отключен"
+
+msgid "Change Traffic"
+msgstr "Изменить трафик"
